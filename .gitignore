@@ -1,0 +1,8 @@
+# Local connector configuration and analysis output
+mcp.json
+outputs/
+
+# Local credentials
+.env
+.env.*
+!.env.example

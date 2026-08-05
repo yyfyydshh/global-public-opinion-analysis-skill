@@ -1,0 +1,4 @@
+interface:
+  display_name: "Global Public Opinion Analysis"
+  short_description: "Evidence-based global brand and product sentiment analysis."
+  default_prompt: "Use $global-public-opinion-analysis to analyze brand reputation across global sources."

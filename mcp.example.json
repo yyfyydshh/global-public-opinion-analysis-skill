@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "public-opinion-search": {
+      "type": "streamableHttp",
+      "url": "https://mcp.bazhuayu.com/?includeTools=search_platform_content,list_platforms",
+      "headers": {
+        "X-API-Key": "${OCTOPARSE_API_KEY}"
+      },
+      "timeout": 30000
+    }
+  }
+}
