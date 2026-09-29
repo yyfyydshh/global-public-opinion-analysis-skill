@@ -1,0 +1,1 @@
+{"mcpServers":{"datahub-global-news-public-opinion":{"type":"streamableHttp","url":"https://mcp-v2.bazhuayu.com/","enabledTools":["get_data_app_details","run_data_app","get_run_status","get_run_result"]}}}
